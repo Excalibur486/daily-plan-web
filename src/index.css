@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    background-color: #F9F7F2;
+    color: #3D3D3D;
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  }
+
+  h1, h2, h3, .font-serif-natural {
+    font-family: 'Noto Serif SC', 'Lora', serif;
+  }
+}
+

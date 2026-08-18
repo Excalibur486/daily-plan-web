@@ -1,0 +1,6 @@
+{
+  "name": "每日计划与自律督促助手",
+  "description": "一个用于制定每日计划、打卡自律习惯、专注计时与记录每日复盘的高效自律督促应用。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
